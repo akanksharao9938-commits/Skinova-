@@ -1,0 +1,7 @@
+{
+  "name": "Skinova",
+  "description": "AI-driven skin disease detection and personalized skincare management platform.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
